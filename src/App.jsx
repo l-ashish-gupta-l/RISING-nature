@@ -1,4 +1,5 @@
 import React from 'react'
+import Nav from './Nav'
 
 
 
@@ -6,7 +7,7 @@ import React from 'react'
 function App() {
   return (
     <>
-      <div className='bg-black'>ashish</div>
+      <Nav />
     </>
   )
 }
